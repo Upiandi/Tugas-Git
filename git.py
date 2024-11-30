@@ -64,3 +64,4 @@ for id_lokasi, info in data_panen.items():
         print(f'{nama} memerlukan perhatian khusus')
     else:
         print(f'{nama} dalam kondisi baik')
+print('===============================================================')
